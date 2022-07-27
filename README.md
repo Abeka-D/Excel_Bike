@@ -1,2 +1,3 @@
 # Excel_Bike
-Excel Project about Bike purchase
+Excel Project with a Dashboard about Bike purchase
+
